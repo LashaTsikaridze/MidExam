@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "ვეფხისტყაოსანი",
+      "author": "შოთა რუსთაველი",
+      "rating": 4.9,
+      "year": 1200,
+      "description": "ქართული ლიტერატურის ძეგლი, რომელიც მოგვითხრობს ტარიელის, ავთანდილის და ფრიდონის სიყვარულისა და მეგობრობის ისტორიას."
+    },
+    {
+      "id": 2,
+      "title": "მამის მკვლელი",
+      "author": "ჩაბუა ამირეჯიბი",
+      "rating": 4.7,
+      "year": 1991,
+      "description": "ისტორიული რომანი, რომელიც აღწერს XIX საუკუნის ქართული საზოგადოების ცხოვრებას."
+    },
+    {
+      "id": 3,
+      "title": "მზე ზღვისა",
+      "author": "გრიგოლ რობაქიძე",
+      "rating": 4.5,
+      "year": 1954,
+      "description": "ქართული რომანი, რომელიც მოგვითხრობს ზღვისპირეთის ცხოვრებაზე."
+    },
+    {
+      "id": 4,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "rating": 4.2,
+      "year": 1925,
+      "description": "The story of Jay Gatsby's unrequited love for Daisy Buchanan, set in the Jazz Age."
+    },
+    {
+      "id": 5,
+      "title": "ქართული ხალხური ზღაპრები",
+      "author": "ხალხური",
+      "rating": 4.8,
+      "year": 1800,
+      "description": "ქართული ხალხური ზღაპრების კრებული, რომელიც მოიცავს ყველაზე ცნობილ ზღაპრებს."
+    },
+    {
+      "id": 6,
+      "title": "1984",
+      "author": "George Orwell",
+      "rating": 4.6,
+      "year": 1949,
+      "description": "A dystopian social science fiction novel about totalitarian control and surveillance."
+    },
+    {
+      "id": 7,
+      "title": "ალუბლის ყვავილობა",
+      "author": "ვაჟა-ფშაველა",
+      "rating": 4.4,
+      "year": 1892,
+      "description": "ვაჟა-ფშაველას ცნობილი პოემა, რომელიც მოგვითხრობს სიყვარულისა და ტრაგედიის ისტორიას."
+    },
+    {
+      "id": 8,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "rating": 4.3,
+      "year": 1960,
+      "description": "A novel about the serious issues of rape and racial inequality told through the eyes of a young girl."
+    }
+  ]
+}
