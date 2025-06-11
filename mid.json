@@ -1,0 +1,112 @@
+{
+  "page": 1,
+  "per_page": 8,
+  "total": 8,
+  "total_pages": 1,
+  "data": [
+    {
+      "id": 1,
+      "title": "ვეფხისტყაოსანი",
+      "author": "შოთა რუსთაველი",
+      "genre": "ეპოსი",
+      "year": 1200,
+      "rating": 4.9,
+      "description": "ქართული ლიტერატურის ძეგლი, რომელიც მოგვითხრობს ტარიელის, ავთანდილის და ფრიდონის სიყვარულისა და მეგობრობის ისტორიას.",
+      "isbn": "978-9941-123-45-6",
+      "pages": 1680,
+      "language": "ქართული",
+      "cover_url": "https://example.com/vepkhistqaosani.jpg"
+    },
+    {
+      "id": 2,
+      "title": "მამის მკვლელი",
+      "author": "ჩაბუა ამირეჯიბი",
+      "genre": "რომანი",
+      "year": 1991,
+      "rating": 4.7,
+      "description": "ისტორიული რომანი, რომელიც აღწერს XIX საუკუნის ქართული საზოგადოების ცხოვრებას.",
+      "isbn": "978-9941-234-56-7",
+      "pages": 456,
+      "language": "ქართული",
+      "cover_url": "https://example.com/mamis_mkvleli.jpg"
+    },
+    {
+      "id": 3,
+      "title": "მზე ზღვისა",
+      "author": "გრიგოლ რობაქიძე",
+      "genre": "რომანი",
+      "year": 1954,
+      "rating": 4.5,
+      "description": "ქართული რომანი, რომელიც მოგვითხრობს ზღვისპირეთის ცხოვრებაზე.",
+      "isbn": "978-9941-345-67-8",
+      "pages": 384,
+      "language": "ქართული",
+      "cover_url": "https://example.com/mze_zgvisa.jpg"
+    },
+    {
+      "id": 4,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "კლასიკური ლიტერატურა",
+      "year": 1925,
+      "rating": 4.2,
+      "description": "The story of Jay Gatsby's unrequited love for Daisy Buchanan, set in the Jazz Age.",
+      "isbn": "978-0-7432-7356-5",
+      "pages": 218,
+      "language": "ინგლისური",
+      "cover_url": "https://example.com/gatsby.jpg"
+    },
+    {
+      "id": 5,
+      "title": "ქართული ხალხური ზღაპრები",
+      "author": "ხალხური",
+      "genre": "ზღაპრები",
+      "year": 1800,
+      "rating": 4.8,
+      "description": "ქართული ხალხური ზღაპრების კრებული, რომელიც მოიცავს ყველაზე ცნობილ ზღაპრებს.",
+      "isbn": "978-9941-456-78-9",
+      "pages": 320,
+      "language": "ქართული",
+      "cover_url": "https://example.com/zghaprebis_krebuli.jpg"
+    },
+    {
+      "id": 6,
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "დისტოპია",
+      "year": 1949,
+      "rating": 4.6,
+      "description": "A dystopian social science fiction novel about totalitarian control and surveillance.",
+      "isbn": "978-0-452-28423-4",
+      "pages": 328,
+      "language": "ინგლისური",
+      "cover_url": "https://example.com/1984.jpg"
+    },
+    {
+      "id": 7,
+      "title": "ალუბლის ყვავილობა",
+      "author": "ვაჟა-ფშაველა",
+      "genre": "პოეზია",
+      "year": 1892,
+      "rating": 4.4,
+      "description": "ვაჟა-ფშაველას ცნობილი პოემა, რომელიც მოგვითხრობს სიყვარულისა და ტრაგედიის ისტორიას.",
+      "isbn": "978-9941-567-89-0",
+      "pages": 120,
+      "language": "ქართული",
+      "cover_url": "https://example.com/alublis_qvaviloba.jpg"
+    },
+    {
+      "id": 8,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "კლასიკური ლიტერატურა",
+      "year": 1960,
+      "rating": 4.3,
+      "description": "A novel about the serious issues of rape and racial inequality told through the eyes of a young girl.",
+      "isbn": "978-0-06-112008-4",
+      "pages": 376,
+      "language": "ინგლისური",
+      "cover_url": "https://example.com/mockingbird.jpg"
+    }
+  ]
+}
